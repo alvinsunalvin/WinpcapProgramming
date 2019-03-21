@@ -1,0 +1,4 @@
+# WinpcapProgramming
+一个简单的windows（基于winpcap）抓包程序
+抓包功能基于Winpcap驱动
+抓包程序.exe正常运行需要安装winpcap
